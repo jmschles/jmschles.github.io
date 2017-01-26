@@ -314,6 +314,14 @@ section {
   padding-bottom:50px;
 }
 
+p {
+  margin-bottom: 5px;
+}
+
+dl.position-list {
+  margin-bottom: 5px;
+}
+
 
 /* Footer */
 
