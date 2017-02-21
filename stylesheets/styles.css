@@ -419,3 +419,16 @@ footer {
     color:#444;
   }
 }
+
+.position-header {
+  font-size: 1.1em;
+  letter-spacing: 0.7px;
+}
+
+.float-right {
+  float: right;
+}
+
+.description {
+  font-weight: 500;
+}
