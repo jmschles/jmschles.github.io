@@ -32,14 +32,14 @@ body {
 	color: #232323;
 	background-color: #FBFAF7;
 	margin: 0;
-	line-height: 1.8em;
+	line-height: 1.4em;
 	-webkit-font-smoothing: antialiased;
 
 }
 
 h1, h2, h3, h4, h5, h6 {
   color:#232323;
-  margin:36px 0 10px;
+  margin:18px 0 10px;
 }
 
 p, ul, ol, table, dl {
@@ -99,12 +99,12 @@ strong {
 
 ul li {
   list-style: inside;
-  padding-left: 25px;
+  padding-left: 15px;
 }
 
 ol li {
   list-style: decimal inside;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 blockquote {
